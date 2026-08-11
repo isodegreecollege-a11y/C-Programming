@@ -1,0 +1,6 @@
+{
+  "name": "AI C Lab",
+  "description": "Smart C Programming Learning & Virtual Laboratory platform with bilingual English/Telugu tutor, C compiler, experiments, assessments, and teacher analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
